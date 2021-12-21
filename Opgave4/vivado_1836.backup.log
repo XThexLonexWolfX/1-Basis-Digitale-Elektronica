@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2019.1.3 (64-bit)
+# SW Build 2644227 on Wed Sep  4 09:45:24 MDT 2019
+# IP Build 2633630 on Wed Sep  4 12:30:14 MDT 2019
+# Start of session at: Fri Nov 15 10:44:48 2019
+# Process ID: 1836
+# Current directory: C:/Users/yorbe/OneDrive - uantwerpen/opgave_4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4480 C:\Users\yorbe\OneDrive - uantwerpen\opgave_4\opgave_4.xpr
+# Log file: C:/Users/yorbe/OneDrive - uantwerpen/opgave_4/vivado.log
+# Journal file: C:/Users/yorbe/OneDrive - uantwerpen/opgave_4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/yorbe/OneDrive - uantwerpen/opgave_4/opgave_4.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:28 ; elapsed = 00:00:11 . Memory (MB): peak = 742.707 ; gain = 69.250
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Nov 15 11:12:56 2019...

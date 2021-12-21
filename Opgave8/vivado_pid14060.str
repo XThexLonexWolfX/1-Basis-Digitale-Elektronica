@@ -1,0 +1,154 @@
+/*
+
+Xilinx Vivado v2021.1 (64-bit) [Major: 2021, Minor: 1]
+SW Build: 3247384 on Thu Jun 10 19:36:33 MDT 2021
+IP Build: 3246043 on Fri Jun 11 00:30:35 MDT 2021
+
+Process ID (PID): 14060
+License: Customer
+Mode: GUI Mode
+
+Current time: 	Wed Oct 06 11:31:42 CEST 2021
+Time zone: 	Central European Standard Time (Europe/Paris)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 12
+
+Screen size: 1920x1080
+Screen resolution (DPI): 100
+Available screens: 1
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+Scale size: 12
+
+Java version: 	11.0.2 64-bit
+Java home: 	C:/Xilinx/Vivado/2021.1/tps/win64/jre11.0.2
+Java executable: 	C:/Xilinx/Vivado/2021.1/tps/win64/jre11.0.2/bin/java.exe
+Java initial memory (-Xms): 	256 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	Yorben
+User home directory: C:/Users/yorbe
+User working directory: C:/Users/yorbe/OneDrive - Universiteit Antwerpen/School/1_Basis_digitale_elektronica/opgave_8
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2021.1
+RDI_DATADIR: C:/Xilinx/Vivado/2021.1/data
+RDI_BINDIR: C:/Xilinx/Vivado/2021.1/bin
+
+Vivado preferences file: C:/Users/yorbe/AppData/Roaming/Xilinx/Vivado/2021.1/vivado.xml
+Vivado preferences directory: C:/Users/yorbe/AppData/Roaming/Xilinx/Vivado/2021.1/
+Vivado layouts directory: C:/Users/yorbe/AppData/Roaming/Xilinx/Vivado/2021.1/data/layouts
+PlanAhead jar file: 	C:/Xilinx/Vivado/2021.1/lib/classes/planAhead.jar
+Vivado log file: 	C:/Users/yorbe/OneDrive - Universiteit Antwerpen/School/1_Basis_digitale_elektronica/opgave_8/vivado.log
+Vivado journal file: 	C:/Users/yorbe/OneDrive - Universiteit Antwerpen/School/1_Basis_digitale_elektronica/opgave_8/vivado.jou
+Engine tmp dir: 	C:/Users/yorbe/OneDrive - Universiteit Antwerpen/School/1_Basis_digitale_elektronica/opgave_8/.Xil/Vivado-14060-DESKTOP-UO8LOIU
+
+Xilinx Environment Variables
+----------------------------
+XILINX: C:/Xilinx/Vivado/2021.1/ids_lite/ISE
+XILINX_DSP: C:/Xilinx/Vivado/2021.1/ids_lite/ISE
+XILINX_HLS: C:/Xilinx/Vitis_HLS/2021.1
+XILINX_PLANAHEAD: C:/Xilinx/Vivado/2021.1
+XILINX_VIVADO: C:/Xilinx/Vivado/2021.1
+XILINX_VIVADO_HLS: C:/Xilinx/Vivado/2021.1
+
+
+GUI allocated memory:	256 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 1,231 MB
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// [GUI Memory]: 77 MB (+78739kb) [00:00:15]
+// [Engine Memory]: 1,231 MB (+1139120kb) [00:00:15]
+// aK (cs): Older Project Version: addNotify
+// Tcl Command: 'rdi::info_commands {device::*}'
+// Tcl Command: 'rdi::info_commands {debug::*}'
+// Tcl Command: 'rdi::info_commands {*}'
+// HMemoryUtils.trashcanNow. Engine heap size: 1,231 MB. GUI used memory: 67 MB. Current time: 10/6/21, 11:31:44 AM CEST
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1002 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1002 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1005 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a
+// Opening Vivado Project: C:\Users\yorbe\OneDrive - Universiteit Antwerpen\School\1_Basis_digitale_elektronica\opgave_8\opgave_8.xpr. Version: Vivado v2020.1 
+// bz (cs):  Open Project : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+dismissDialog("Older Project Version"); // aK
+// TclEventType: FLOW_ADDED
+// Tcl Message: open_project {C:/Users/yorbe/OneDrive - Universiteit Antwerpen/School/1_Basis_digitale_elektronica/opgave_8/opgave_8.xpr} 
+// Tcl Message: INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. Current project path is 'C:/Users/yorbe/OneDrive - Universiteit Antwerpen/School/1_Basis_digitale_elektronica/opgave_8' 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project {C:/Users/yorbe/OneDrive - Universiteit Antwerpen/School/1_Basis_digitale_elektronica/opgave_8/opgave_8.xpr} 
+// Tcl Message: INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. Current project path is 'C:/Users/yorbe/OneDrive - Universiteit Antwerpen/School/1_Basis_digitale_elektronica/opgave_8' INFO: [Project 1-313] Project file moved from 'C:/Users/yorbe/OneDrive - Universiteit Antwerpen/1_Basis_digitale_elektronica/opgave_8' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [Project 1-230] Project 'opgave_8.xpr' upgraded for this version of Vivado. 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 99 MB (+18199kb) [00:00:51]
+// [GUI Memory]: 107 MB (+3709kb) [00:00:51]
+// [GUI Memory]: 117 MB (+4119kb) [00:00:54]
+// WARNING: HEventQueue.dispatchEvent() is taking  8192 ms.
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2021.1/data/ip'. 
+// WARNING: HEventQueue.dispatchEvent() is taking  1004 ms.
+// Tcl Message: open_project: Time (s): cpu = 00:00:38 ; elapsed = 00:00:15 . Memory (MB): peak = 1222.777 ; gain = 0.000 
+// Project name: opgave_8; location: C:/Users/yorbe/OneDrive - Universiteit Antwerpen/School/1_Basis_digitale_elektronica/opgave_8; part: xc7a100tcsg324-1
+// Elapsed time: 24 seconds
+selectButton("OptionPane.button", "No"); // JButton
+// [GUI Memory]: 136 MB (+14508kb) [00:01:07]
+// Tcl Message: update_compile_order -fileset sources_1 
+// PAPropertyPanels.initPanels (opgave_8.vhd) elapsed time: 0.2s
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, opgave_8(Behavioral) (opgave_8.vhd)]", 1, true); // D - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, opgave_8(Behavioral) (opgave_8.vhd)]", 1, true, false, false, false, false, true); // D - Double Click - Node
+// bz (cs):  Opening Editor : addNotify
+// HMemoryUtils.trashcanNow. Engine heap size: 1,231 MB. GUI used memory: 78 MB. Current time: 10/6/21, 11:33:08 AM CEST
+// HMemoryUtils.trashcanNow. Engine heap size: 1,231 MB. GUI used memory: 78 MB. Current time: 10/6/21, 11:33:38 AM CEST
+// Elapsed time: 91 seconds
+selectButton(RDIResource.ProgressDialog_CANCEL, "Cancel"); // a
+dismissDialog("Opening Editor"); // bz
+selectButton(PAResourceCommand.PACommandNames_TOGGLE_VIEW_NAV, (String) null); // E
+// Run Command: PAResourceCommand.PACommandNames_TOGGLE_VIEW_NAV
+// PAResourceOtoP.PAViews_PROJECT_SUMMARY: Project Summary: close view
+closeView(PAResourceOtoP.PAViews_PROJECT_SUMMARY, "Project Summary"); // v
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, opgave_8(Behavioral) (opgave_8.vhd)]", 1, true); // D - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, opgave_8(Behavioral) (opgave_8.vhd)]", 1, true, false, false, false, false, true); // D - Double Click - Node
+// bz (cs):  Opening Editor : addNotify
+// HMemoryUtils.trashcanNow. Engine heap size: 1,231 MB. GUI used memory: 78 MB. Current time: 10/6/21, 11:34:45 AM CEST
+// HMemoryUtils.trashcanNow. Engine heap size: 1,231 MB. GUI used memory: 78 MB. Current time: 10/6/21, 11:35:15 AM CEST
+// HMemoryUtils.trashcanNow. Engine heap size: 1,231 MB. GUI used memory: 78 MB. Current time: 10/6/21, 11:35:45 AM CEST
+// HMemoryUtils.trashcanNow. Engine heap size: 1,231 MB. GUI used memory: 78 MB. Current time: 10/6/21, 11:36:45 AM CEST
+// HMemoryUtils.trashcanNow. Engine heap size: 1,231 MB. GUI used memory: 78 MB. Current time: 10/6/21, 11:37:15 AM CEST
